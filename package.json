@@ -1,0 +1,14 @@
+{
+    "name": "@karimdouieb/football-wind",
+    "main": "6289c7f402291bda@807.js",
+    "version": "807.0.0",
+    "homepage": "https://observablehq.com/@karimdouieb/football-wind",
+    "author": {
+      "name": "KDO",
+      "url": "https://observablehq.com/@karimdouieb"
+    },
+    "type": "module",
+    "peerDependencies": {
+      "@observablehq/runtime": "4"
+    }
+  }
